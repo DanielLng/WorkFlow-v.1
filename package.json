@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "browser-sync": "^3.0.2",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "chokidar": "^3.6.0",
+    "clean-css": "^5.3.3",
+    "fs-extra": "^11.2.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "path": "^0.12.7",
+    "readline-sync": "^1.4.10",
+    "sass": "^1.71.1",
+    "shelljs": "^0.8.5"
+  }
+}

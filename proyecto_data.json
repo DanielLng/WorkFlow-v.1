@@ -1,0 +1,11 @@
+{
+  "nombreProyecto": "TechNovo",
+  "tipoProyecto": "Add Astra",
+  "wordpressCore": "W:\\CoreFiles\\wordpress-6.2\\wordpress",
+  "baseTheme": "W:\\CoreFiles\\StarterThemes\\ThemeStarter",
+  "carpetaRaiz": "W:\\Xampp\\htdocs\\Add Astra\\wordpress\\TechNovo",
+  "carpetaTrabajo": "A:\\Documents\\WebDevelopment\\Source\\wordpress\\Add Astra\\TechNovo",
+  "construccionRaiz": "W:\\Xampp\\htdocs",
+  "construccionTrabajo": "A:\\Documents\\WebDevelopment",
+  "url": "http://localhost:3000/Prueba/wordpress/Proyecto13"
+}
